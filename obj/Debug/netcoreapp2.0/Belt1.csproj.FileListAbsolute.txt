@@ -1,0 +1,11 @@
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/bin/Debug/netcoreapp2.0/Belt1.deps.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/bin/Debug/netcoreapp2.0/Belt1.runtimeconfig.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/bin/Debug/netcoreapp2.0/Belt1.runtimeconfig.dev.json
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/bin/Debug/netcoreapp2.0/Belt1.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/bin/Debug/netcoreapp2.0/Belt1.pdb
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/obj/Debug/netcoreapp2.0/Belt1.csprojResolveAssemblyReference.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/obj/Debug/netcoreapp2.0/Belt1.csproj.CoreCompileInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/obj/Debug/netcoreapp2.0/Belt1.AssemblyInfoInputs.cache
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/obj/Debug/netcoreapp2.0/Belt1.AssemblyInfo.cs
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/obj/Debug/netcoreapp2.0/Belt1.dll
+/Users/csleong/Desktop/Coding Dojo/csharp/Belt1/obj/Debug/netcoreapp2.0/Belt1.pdb
